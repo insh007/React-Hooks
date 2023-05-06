@@ -16,7 +16,8 @@ function App() {
 
   return (
     <>
-      <DataFetching12 />
+      <DataFetchingInTable />
+      {/* <DataFetching12 /> */}
       {/* <UseEffectSetInterval /> */}
       {/* <UseEffectCleanUp10 /> */}
       {/* <UseEffectOnceEffect9 /> */}
